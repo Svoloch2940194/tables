@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\voloc\source\repos\tables\tables\Hash.h(11,26): warning C4244: 'argument': conversion from 'double' to 'unsigned __int64', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\voloc\source\repos\tables\tables\Source.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  tables.vcxproj -> C:\Users\voloc\source\repos\tables\x64\Debug\tables.exe
